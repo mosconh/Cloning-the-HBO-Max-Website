@@ -1,0 +1,155 @@
+@import url('reset.css');
+
+ /* Header */
+.menu-nav img {
+    width: 160px;
+}
+
+.menu-nav {
+    width: 100%;
+    background:#020228; /* fix the transparency*/
+    z-index: 1;
+    position: fixed;
+    padding: 12px 16px;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-items {
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.menu-btn {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .8rem;
+    letter-spacing: 1.2px;
+}
+
+.btn-subscribe {
+    background: #b535f6;
+    border-radius: 500px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 8px 16px;
+}
+
+/*  */
+
+header {
+    position: relative;
+    margin-top: 50px;
+    background:linear-gradient(90deg, #020228 35%, #b535f6);
+    padding: 100px 0 300px;
+    background-size: 400% 400%;
+}
+
+.header-content {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 0 40px;
+}
+
+.header-channels {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+}
+
+.main-icons {
+     object-fit: contain;
+}
+
+.header-title {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    width: 500px;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.main-title-light {
+    font-size: 2rem;
+    font-weight: lighter;
+}
+
+.header-h-line {
+    width: 70%;
+    max-width: 700px;
+    height: 5px;
+    background-image: linear-gradient(90deg, #5516ba, #ff00e580 80%);
+}
+
+.caption-subscription-01 {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.2rem;
+}
+
+.caption-subscription-02 {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: .9rem;
+}
+
+.caption-small-text {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1rem;
+    width: 300px;
+    text-align: center;
+}
+
+.caption-price {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.main-btn-subscribe {
+    background: linear-gradient(60deg,#ff00e580, #5516ba 30%); 
+    border-radius: 500px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 8px 16px;
+}
+
+.main-btn {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    padding: 16px 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 3px;
+}
+
+.subscription {
+    background-image: url('images/background-movies-series.png');
+    background-size: cover;
+    position: relative;
+}
+
+.container-subscriptions-plan {
+
+}
+
+.subscription-title {
+    width: 1100px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    padding: 16px 40px;
+
+
+}
