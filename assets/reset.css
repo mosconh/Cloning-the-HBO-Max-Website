@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
-    list-style: none;
+    font-family: 'Raleway', sans-serif;
     box-sizing: border-box;
 }
 
@@ -14,12 +14,7 @@
     --primary-color: #020228;
     --secondary-color: #ff00e5;
     --tertiary-color: #b535f6;
-    --btn-bg-color-gradient: linear-gradient(
-      45deg,
-      #9b34ef 0%,
-      #490cb0 20%,
-      transparent 50%
-    );
+    --btn-bg-color-gradient: linear-gradient(45deg,#9b34ef 0%,#490cb0 20%,transparent 50%);
     --btn-link-bg-color: #fff;
     --btn-link-color: #000;
     --card-bg-color: linear-gradient(0deg, transparent, #3b1e63);
@@ -39,6 +34,25 @@
 
     scroll-behavior: smooth;
   }
+
+
+body {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+p {
+  font-family: "Quicksand", sans-serif;
+}
+
+section {
+  scroll-margin-top: 80px;
+}
+
+.text-small {
+  font-size: 1rem;
+  font-weight: 300;
+}
 
 
     /* Custom Scroll */
