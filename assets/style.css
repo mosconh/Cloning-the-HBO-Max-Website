@@ -201,3 +201,36 @@
 div {
     display: block;
 }
+
+.contents {
+    display: block;
+    margin: 100px 0px;
+}
+
+.container {
+    max-width: 1200px;
+    padding: 24px;
+    text-align: center;
+}
+
+.contents-container {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.contents-card {
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid transparent;
+}
+
+.contents-image {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+
+}
