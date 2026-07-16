@@ -26,4 +26,4 @@ This was one of the biggest project I’ve done, it was made from scratch. The H
 
 ### 🫴🏽**Preview**
 
-[![Watch the video](https://github.com/user-attachments/assets/41dd2a32-c9b1-41f6-8860-abc0742b49d8)](https://github.com/user-attachments/assets/41dd2a32-c9b1-41f6-8860-abc0742b49d8)
+[![Watch the video](https://github.com/user-attachments/assets/c6e44c68-66f5-4440-9c35-299aca387a41)](https://github.com/user-attachments/assets/c6e44c68-66f5-4440-9c35-299aca387a41)
