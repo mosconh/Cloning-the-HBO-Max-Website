@@ -4,14 +4,13 @@
 
 ### 📜 Technologies
 
-- HTML
-- CSS
-- VS Code (for writing the code)
+- HTML — Page structure
+- CSS — Styling and layout
+- VS Code — Development environment
 
 ### 📁 Features
 
 - Responsiveness
-- Interactive navigation bar
 - Interactive website overall
 
 ### 📍The Process
@@ -21,7 +20,7 @@ This was one of the biggest project I’ve done, it was made from scratch. The H
 ### 🚦Running the Project
 
 - Clone the repository
-- Open in your editor of choice (I use VS Code)
+- Open the project in your preferred code editor.
 - Run it with live server
 
 ### 🫴🏽**Preview**
